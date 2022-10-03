@@ -5,7 +5,7 @@
     {
       "id": 1,
       "name": "蓝光秒播",
-      "api": "https://www.ddzyz1.com/api.php/provide/vod/https://www.ddzyz1.com/api.php/provide/vod/at/xml/",
+      "api": "https://www.ddzyz1.com/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": true
     },  
