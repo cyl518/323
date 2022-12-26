@@ -12,7 +12,7 @@
 	"sites":[
 
 {"key":"AppTT","name":"图图影视","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/cyl518/yl/raw/branch/master/tutu.jar;md5;C5B6AFAE170C32D8725AFA95B3619110"},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt"}
+{"key":"push_agent","name":"图图推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt"}
 
 ],
 
